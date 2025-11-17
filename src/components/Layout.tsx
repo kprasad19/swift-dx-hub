@@ -20,7 +20,7 @@ export const Layout = ({ children }: { children: React.ReactNode }) => {
             <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary">
               <FileText className="h-6 w-6 text-primary-foreground" />
             </div>
-            <h1 className="text-xl font-bold text-foreground">DiagnoLab</h1>
+            <h1 className="text-xl font-bold text-foreground">CMRIT Labs</h1>
           </div>
           
           <nav className="hidden md:flex items-center gap-6">

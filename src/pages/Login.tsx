@@ -32,7 +32,7 @@ const Login = () => {
             <FileText className="h-10 w-10 text-primary-foreground" />
           </div>
           <div>
-            <CardTitle className="text-2xl">DiagnoLab</CardTitle>
+            <CardTitle className="text-2xl">CMRIT Labs</CardTitle>
             <CardDescription>Sign in to access the diagnostic management system</CardDescription>
           </div>
         </CardHeader>
